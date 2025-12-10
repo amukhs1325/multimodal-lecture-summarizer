@@ -1,0 +1,12 @@
+pdf2image
+pytesseract
+Pillow
+pdfplumber
+librosa
+soundfile
+transformers
+torch
+sentencepiece
+nltk
+tqdm
+rouge-score
